@@ -1,3 +1,14 @@
+##
+
+ONLY WORKS ON WINDOWS SYSTEMS!
+
+
+
+
+
+
+
+
 I copy pasted a calculator that you can calculate your time!
 
 https://github.com/akx25/calculator
