@@ -1,4 +1,5 @@
 I copy pasted a calculator that you can calculate your time!
+https://github.com/akx25/calculator
 
 (Example: 6 * 60 = 360)
 
