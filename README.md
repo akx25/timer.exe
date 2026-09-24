@@ -4,14 +4,11 @@ https://github.com/akx25/calculator
 
 (Example: 6 * 60 = 360)
 
-(Enter your time...)
-
+(Enter your time...
 Enter the time in seconds: 360
 
 6:00
-
 5:59
-
 5:58
 
 
